@@ -13,6 +13,9 @@ function App() {
         <p>
           Segundo Comentário 
         </p>
+        <p>
+          Terceiro Comentário 
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
